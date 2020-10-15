@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	spec "github.com/codemodify/systemkit-service-spec"
+	spec "github.com/remoteit/systemkit-service-spec"
 )
 
 var logTag = "rc.d-SERVICE"
